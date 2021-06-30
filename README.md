@@ -1,2 +1,0 @@
-# mgraph
-bidirectinal graph storage 
